@@ -6,7 +6,7 @@ Tools Generate Trojan Account<br>
 - [ZeroStore](https://vmesscf.zerostore.web.id)
 - [IPTunnels](https://www.iptunnels.com)
 <br>
-*Credit Obfuscates:*
+*Credit Obfuscates:*<br>
 - [Fadi002](https://github.com/Fadi002)
 
 ### How to use in termux
