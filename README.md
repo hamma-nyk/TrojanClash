@@ -1,6 +1,5 @@
 # TrojanClash
 <img title="TrojanClash" src="https://i.ibb.co.com/SQQ4KNt/image.png"><br><br>
-Tools Generate Trojan Account
 
 ### How to use in termux
 * pkg install git
