@@ -1,11 +1,11 @@
 # TrojanClash
 <img title="TrojanClash" src="https://i.ibb.co.com/SQQ4KNt/image.png"><br><br>
 Tools Generate Trojan Account
-Credit Pool:
+<br>Credit Pool:
 * [Barry-Far](https://github.com/barry-far)
 * [ZeroStore](https://vmesscf.zerostore.web.id)
 * [IPTunnels](https://www.iptunnels.com)
-Credit Obfuscates:
+<br>Credit Obfuscates:
 * [Fadi002](https://github.com/Fadi002)
 
 ### How to use in termux
