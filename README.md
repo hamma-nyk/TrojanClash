@@ -1,5 +1,5 @@
 # TrojanClash
-<img title="TrojanClash" src="https://i.ibb.co.com/SQQ4KNt/image.png"><br><br>
+<img title="TrojanClash" src="https://i.ibb.co.com/SQQ4KNt/image.png"><br>
 
 ### How to use in termux
 * pkg install git
